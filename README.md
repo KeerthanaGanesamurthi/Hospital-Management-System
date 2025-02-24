@@ -37,7 +37,20 @@ The **Hospital Management System** is a web-based application built using **PHP 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
 - **Database:** MySQL  
-- **Server:** XAMPP  
+- **Server:** XAMPP
+
+## Project Screeenshots
+
+![image](https://github.com/user-attachments/assets/a2526c10-1ca8-444e-8d85-c8c5bb047273)
+
+
+![image](https://github.com/user-attachments/assets/2b7b066d-32e6-4c1c-8f63-824672e1d5eb)
+
+![image](https://github.com/user-attachments/assets/30837f6c-b735-46f7-9a35-b3d3efc3d614)
+
+![image](https://github.com/user-attachments/assets/c4968f32-000d-4dab-b17c-05fe6f63581d)
+
+
 
 ## Future Enhancements  
 - Implement role-based access control.  
